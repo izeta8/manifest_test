@@ -5,8 +5,8 @@
   "display": "standalone",
   "dir": "auto",
   "lang": "en-US",
-  "name": "Kaotika Battle",
-  "short_name": "Kaotika - The Final Battle",
+  "name": "Final Battle",
+  "short_name": "The Final Battle",
   "start_url": "/index.html",
   "icons": [
     {
