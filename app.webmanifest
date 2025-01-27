@@ -1,12 +1,12 @@
 {
-  "theme_color": "#cda882",
+  "theme_color": "#232428",
   "background_color": "#232428",
   "orientation": "portrait",
   "display": "standalone",
   "dir": "auto",
   "lang": "en-US",
   "name": "Kaotika Battle",
-  "short_name": "Kaotika Battle",
+  "short_name": "Kaotika - The Final Battle",
   "start_url": "/index.html",
   "icons": [
     {
